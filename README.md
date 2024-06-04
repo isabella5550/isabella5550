@@ -1,8 +1,7 @@
 boas vindas ao meu perfil 💙💙
-meu nome e isabella
-estou desenvolvendo na linguagem JavaScript 
+meu nome e isabella estou desenvolvendo na linguagem JavaScript 
 utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
-<!--![](link)
+<!- -![](link)
 
 **isabella5550/isabella5550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
