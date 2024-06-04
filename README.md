@@ -1,6 +1,8 @@
 boas vindas ao meu perfil 💙💙
 meu nome e isabella estou desenvolvendo na linguagem JavaScript 
 utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+Você pode entrar em contato comigo 📫
+isabellafgdr@gmail.com
 <!- -![](link)
 
 **isabella5550/isabella5550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
